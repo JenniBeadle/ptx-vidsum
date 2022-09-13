@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkptx_vidsum=self.webpackChunkptx_vidsum||[]).push([[7847],{5745:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
