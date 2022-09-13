@@ -1,0 +1,66 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Back Translation": {
+    "message": "Back Translation",
+    "description": "The label for category Back Translation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Biblical terms": {
+    "message": "Biblical terms",
+    "description": "The label for category Biblical terms in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Checking tools": {
+    "message": "Checking tools",
+    "description": "The label for category Checking tools in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Custom interlinears": {
+    "message": "Custom interlinears",
+    "description": "The label for category Custom interlinears in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Drafting and editing": {
+    "message": "Drafting and editing",
+    "description": "The label for category Drafting and editing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Enhanced resources": {
+    "message": "Enhanced resources",
+    "description": "The label for category Enhanced resources in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Glossary": {
+    "message": "Glossary",
+    "description": "The label for category Glossary in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Illustrations": {
+    "message": "Illustrations",
+    "description": "The label for category Illustrations in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Navigation": {
+    "message": "Navigation",
+    "description": "The label for category Navigation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Parallel Passages": {
+    "message": "Parallel Passages",
+    "description": "The label for category Parallel Passages in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Project notes": {
+    "message": "Project notes",
+    "description": "The label for category Project notes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Project notes.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Project notes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Project collaboration": {
+    "message": "Project collaboration",
+    "description": "The label for category Project collaboration in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Project collaboration.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Project collaboration in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Spell checking and wordlist": {
+    "message": "Spell checking and wordlist",
+    "description": "The label for category Spell checking and wordlist in sidebar tutorialSidebar"
+  }
+}
